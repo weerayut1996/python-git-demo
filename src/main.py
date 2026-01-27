@@ -1,11 +1,6 @@
-"""
-pytmain.py
-Entry point ของโปรเจกต์ Python
-"""
-
-
 def main():
     print("Hello, Python + Git + VS Code 🚀")
+    print("Branch: feature/print-version")
 
 
 if __name__ == "__main__":
